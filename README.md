@@ -1,12 +1,12 @@
 Here’s a complete `README.md` file for your PhonePe Pulse Data Visualization project, written in a clean, professional, and human-readable format. It includes setup instructions, features, technologies .
 
 
-# 📊 PhonePe Pulse Data Visualization Dashboard
+#  PhonePe Pulse Data Visualization Dashboard
 
 This project is an interactive data visualization dashboard built using **Python**, **Streamlit**, **Plotly**, and **PostgreSQL**, which analyzes digital payment trends in India based on the [PhonePe Pulse dataset](https://github.com/PhonePe/pulse). It enables users to explore digital transactions, app usage, and financial behavior across different states, districts, and years (2018–2023).
 
 
-## 🔍 Overview
+##  Overview
 
 The dashboard offers a deep dive into:
 
@@ -16,7 +16,7 @@ The dashboard offers a deep dive into:
 
 Users can filter the dashboard by **year**, **quarter**, and **state** to gain clear insights into usage patterns.
 
-## 🚀 Features
+##  Features
 
 -  Real-time visualizations with **Plotly** bar charts and pie charts
 -  Geographical and temporal insights on app usage
@@ -26,7 +26,7 @@ Users can filter the dashboard by **year**, **quarter**, and **state** to gain c
 
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3.13
 - Streamlit
@@ -38,7 +38,7 @@ Users can filter the dashboard by **year**, **quarter**, and **state** to gain c
 
 
 
-## 🧩 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**
    ```bash
@@ -71,7 +71,7 @@ Users can filter the dashboard by **year**, **quarter**, and **state** to gain c
    ```
 
 
-## 📈 Insights & Recommendations
+##  Insights & Recommendations
 
 * States like **Karnataka, Maharashtra, and Tamil Nadu** lead in digital transaction volume.
 * States like **Manipur, Mizoram, and Nagaland** show lower activity — indicating a need for improved digital infrastructure and awareness.
@@ -80,7 +80,7 @@ Users can filter the dashboard by **year**, **quarter**, and **state** to gain c
 *For detailed insights, see the documentation folder.*
 
 
-## 📬 Contact
+##  Contact
 
 Developed by **Suhash J**
 📧 Email: [suhashjagadees@gmail.com](mailto:your.email@example.com)
